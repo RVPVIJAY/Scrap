@@ -29,6 +29,7 @@ public class FTChrome extends FTChromeHelper
 	 */
 	public void testMain(Object[] args) 
 	{
+		////
 		startApp("www.google.com");
 		
 		// /HTML Browser
