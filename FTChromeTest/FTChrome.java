@@ -34,6 +34,7 @@ public class FTChrome extends FTChromeHelper
 		// /HTML Browser
 		// Document: Google: https://www.google.com/?gws_rd=ssl
 		text_search().setText("Entered from FT test");
+		System.out.println("added");
 	}
 }
 
